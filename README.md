@@ -1,7 +1,7 @@
  ### 🚀 Welcome to My GitHub Profile
 
  <div align="center">
-  <img src="https://i.ibb.co/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner" style="max-width: 100%; height: auto;" />
+   ![logo](https://github.com/Litonuddinnil/Litonuddinnil/blob/main/githubProfil.png)
 </div>
 
 
