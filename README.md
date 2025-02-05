@@ -1,8 +1,9 @@
  ### 🚀 Welcome to My GitHub Profile
 
-<div align="center">
-  <img height="600" weight="100%" src="https://i.ibb.co.com/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner"/>
+ <div align="center">
+  <img src="https://i.ibb.co/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner" style="max-width: 100%; height: auto;" />
 </div>
+
 
 ---
 
@@ -56,23 +57,24 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Litonuddinnil&show_icons=true&theme=dracula&count_private=true" height="250" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&hide_border=false&cache_seconds=86400" height="220" alt="GitHub Streak" />
+
 </div>
 
 ---
 
 ### 📌 **Pinned Repositories**
 
-1. **Bistro Boss Website**
-   - 🌐 [Live Site](#) | 💻 [Repository](#)
+1. **Micro Tasks & Earning Money Website**
+   - 🌐 [Live Site](#) | 💻 [Repository](https://simple-firebase-fe141.web.app/)
    - **Tech Stack:** React, Next.js, Tailwind CSS
-   - 🚀 A dynamic restaurant management website with modern UI.
+   - 🚀 A dynamic job find and job add and earn money website with modern UI.
  
 ---
 
 ### 📫 **Contact Me**
 
-- 📍 **Location:** Bangladesh
-- 📧 **Email:** litonuddin.dev@gmail.com
+- 📍 **Location:** Rajshahi,Bangladesh
+- 📧 **Email:** mdniloyhasan544@gmail.com
 
 Thanks for stopping by! 🌟
