@@ -64,7 +64,7 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
 ### 📌 **Pinned Repositories**
 
 1. **Micro Tasks & Earning Money Website**
-   - 🌐 [Live Site](#) | 💻 [Repository](https://simple-firebase-fe141.web.app/)
+   - 🌐 [Live Site](https://simple-firebase-fe141.web.app/) | 💻 [Repository](https://github.com/Litonuddinnil/Micro_Tasks)
    - **Tech Stack:** React, Next.js, Tailwind CSS
    - 🚀 A dynamic job find and job add and earn money website with modern UI.
  
