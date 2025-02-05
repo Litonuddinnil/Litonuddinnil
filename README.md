@@ -75,11 +75,17 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
 ---
 
 ### 📊 **GitHub Stats**
-<div align="center">
+<div align="center" class="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Litonuddinnil&show_icons=true&theme=dracula&count_private=true" height="250" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Litonuddinnil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
+</hr>
+ 
 <a href="https://git.io/streak-stats" target="_blank">
   <img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
+ 
+  
 </div>
 
 ---
