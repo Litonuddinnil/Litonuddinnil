@@ -1,91 +1,88 @@
-<div align="center">
-  <img height="400" src="https://i.ibb.co.com/LXFSyhWD/github-Profil.png"  />
-</div>
-
-###
-
- <div align="center">
-  <a href="https://www.linkedin.com/in/md-liton-uddin-16887734a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Logo" />
-  </a>
-  <a href="https://www.facebook.com/md.litonuddin.520" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook Logo" />
-  </a>
-</div>
-
-
-###
-
-<h1 align="center">Hi there, I'm Liton Uddin 👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a passionate developer with expertise in frontend development. I love building scalable and user-friendly applications. Currently, I'm exploring  Next.js,React.js.I love video games.<br><br>🚀 Current Activities<br><br>- 🌱 I’m currently learning **Next.js**.<br>- 👯 I’m working on a **bistro boss website**.<br>- 💬 Ask me about **React, Node.js, or JavaScript**.<br>- ⚡ Fun fact: I love solving coding challenges in my free time!</p>
-
-###
-
-<h3 align="center">🛠 Skills</h3>
-
-###
-
-<h5 align="center">Front-end</h5>
-
-###
+ ### 🚀 Welcome to My GitHub Profile
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img height="400" src="https://i.ibb.co.com/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner"/>
 </div>
 
-###
+---
 
-<h5 align="center">Back-end</h5>
+# 👋 Hi there, I'm **Liton Uddin**
 
-###
+### 💻 Frontend Developer | React & Next.js Enthusiast
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-liton-uddin-16887734a/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.litonuddin.520)
+
+---
+
+### 👨‍💻 **About Me**
+
+I'm a passionate developer focused on building scalable, user-friendly applications. Currently diving deep into **Next.js** and expanding my skills in modern web technologies. Besides coding, I love playing video games and tackling coding challenges.
+
+- 🌱 Currently learning **Next.js**
+- 🚀 Working on a **Bistro Boss Website**
+- 💬 Ask me about **React, Node.js, or JavaScript**
+- ⚡ Fun fact: I love solving coding challenges in my free time!
+
+---
+
+### 🛠 **My Tech Stack**
+
+#### 🚀 **Frontend**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
 </div>
 
-###
-
-
-<h3 align="center">Tools</h3>
-
-###
-
+#### ⚙️ **Backend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express.js" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+#### 🧰 **Tools**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Litonuddinnil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Litonuddinnil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
 </div>
 
-###
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Litonuddinnil&show_icons=true&theme=dracula&count_private=true" height="250" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📌 **Pinned Repositories**
+
+1. **Bistro Boss Website**
+   - 🌐 [Live Site](#) | 💻 [Repository](#)
+   - **Tech Stack:** React, Next.js, Tailwind CSS
+   - 🚀 A dynamic restaurant management website with modern UI.
+
+2. **Task Manager App**
+   - 🌐 [Live Site](#) | 💻 [Repository](#)
+   - **Tech Stack:** React, Node.js, MongoDB
+   - 📋 A simple yet powerful task management app.
+
+3. **Portfolio Website**
+   - 🌐 [Live Site](#) | 💻 [Repository](#)
+   - **Tech Stack:** HTML, CSS, JavaScript
+   - 🎨 A personal portfolio showcasing my projects and skills.
+
+---
+
+### 📫 **Contact Me**
+
+- 📍 **Location:** Bangladesh
+- 📧 **Email:** litonuddin.dev@gmail.com
+
+Thanks for stopping by! 🌟
