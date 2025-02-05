@@ -1,6 +1,6 @@
  ### 🚀 Welcome to My GitHub Profile
  
-   ![logo](https://github.com/Litonuddinnil/Litonuddinnil/blob/main/githubProfil.png) 
+   ![logo](https://github.com/Litonuddinnil/Litonuddinnil/blob/main/Orange%20Modern%20Company%20Profile%20A4%20Landscape.png) 
 
 ---
 
