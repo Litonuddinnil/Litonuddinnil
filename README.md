@@ -4,10 +4,15 @@
 
 ###
 
-<div align="center">
-  <img src="[https://img.shields.io/static/v1](https://www.linkedin.com/in/md-liton-uddin-16887734a/)?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="[https://img.shields.io/static/v1](https://www.facebook.com/md.litonuddin.520)?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+ <div align="center">
+  <a href="https://www.linkedin.com/in/md-liton-uddin-16887734a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://www.facebook.com/md.litonuddin.520" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook Logo" />
+  </a>
 </div>
+
 
 ###
 
