@@ -1,7 +1,7 @@
  ### 🚀 Welcome to My GitHub Profile
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner"/>
+  <img height="600" weight="100%" src="https://i.ibb.co.com/LXFSyhWD/github-Profil.png" alt="GitHub Profile Banner"/>
 </div>
 
 ---
@@ -67,17 +67,7 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
    - 🌐 [Live Site](#) | 💻 [Repository](#)
    - **Tech Stack:** React, Next.js, Tailwind CSS
    - 🚀 A dynamic restaurant management website with modern UI.
-
-2. **Task Manager App**
-   - 🌐 [Live Site](#) | 💻 [Repository](#)
-   - **Tech Stack:** React, Node.js, MongoDB
-   - 📋 A simple yet powerful task management app.
-
-3. **Portfolio Website**
-   - 🌐 [Live Site](#) | 💻 [Repository](#)
-   - **Tech Stack:** HTML, CSS, JavaScript
-   - 🎨 A personal portfolio showcasing my projects and skills.
-
+ 
 ---
 
 ### 📫 **Contact Me**
