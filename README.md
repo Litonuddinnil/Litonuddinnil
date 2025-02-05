@@ -4,17 +4,39 @@
 
 ---
 
-# 👋 Hi there, I'm **Liton Uddin**
+ <div align="center">
+  <h3>💻 Frontend Developer | React & Next.js Enthusiast</h3>
+  <img src="https://github.com/Litonuddinnil/Litonuddinnil/blob/main/githubProfil.png" width="150" style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
-### 💻 Frontend Developer | React & Next.js Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-liton-uddin-16887734a/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.litonuddin.520)
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ---
 
+### 🌍 About Me
+I'm a passionate **Frontend Developer** who loves to create beautiful and interactive websites. I specialize in **React.js** and **Next.js**, and I'm always eager to learn new technologies and improve my skills. When I'm not coding, you'll find me diving into video games or solving coding challenges. 🌟
+
+---
+
+### 📫 **Contact Me**
+<div align="center">
+  <p><strong>📍 Location:</strong> Rajshahi, Bangladesh</p>
+  <p><strong>📧 Email:</strong> <a href="mailto:mdniloyhasan544@gmail.com" style="color: #4A90E2;">mdniloyhasan544@gmail.com</a></p>
+</div>
+
+---
+
+### 🔗 **Find Me on Social Media**
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-liton-uddin-16887734a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.facebook.com/md.litonuddin.520" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+</div>
+
+---
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 👨‍💻 **About Me**
 I'm a passionate developer focused on building scalable, user-friendly applications. Currently diving deep into **Next.js** and expanding my skills in modern web technologies. Besides coding, I love playing video games and tackling coding challenges.
@@ -69,11 +91,6 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
    - **Tech Stack:** React, Next.js, Tailwind CSS
    - 🚀 A dynamic job find and job add and earn money website with modern UI.
  
----
-
-### 📫 **Contact Me**
-
-- 📍 **Location:** Rajshahi,Bangladesh
-- 📧 **Email:** mdniloyhasan544@gmail.com
+--- 
 
 Thanks for stopping by! 🌟
