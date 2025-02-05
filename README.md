@@ -1,9 +1,6 @@
  ### 🚀 Welcome to My GitHub Profile
-
- <div align="center">
-   ![logo](https://github.com/Litonuddinnil/Litonuddinnil/blob/main/githubProfil.png)
-</div>
-
+ 
+   ![logo](https://github.com/Litonuddinnil/Litonuddinnil/blob/main/githubProfil.png) 
 
 ---
 
@@ -57,8 +54,9 @@ I'm a passionate developer focused on building scalable, user-friendly applicati
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Litonuddinnil&show_icons=true&theme=dracula&count_private=true" height="250" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&hide_border=false&cache_seconds=86400" height="220" alt="GitHub Streak" />
-
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=Litonuddinnil&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
 </div>
 
 ---
